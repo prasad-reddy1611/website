@@ -1,0 +1,43 @@
+*{
+    background-color: #EEF5DB;
+}
+header{
+    background-color: #554348;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+.place{
+    display: flex;
+}
+.state{
+    padding-left: 75px;
+}
+input{
+    height: 2em;
+    border-radius: 7px;
+}
+input:hover{
+    background-color: #554348;
+}
+select{
+    height: 3em;
+    border-radius: 7px;
+    border-radius: 10px;
+    width:150px;
+}
+select:hover{
+    background-color: #554348;
+}
+.contact{
+    display: flex;
+}
+.emergency_no{
+    padding-left: 50px;
+}
+.button{
+    text-align: center;
+}
+button:hover{
+    background-color: #554348;
+}
